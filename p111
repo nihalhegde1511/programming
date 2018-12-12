@@ -1,0 +1,6 @@
+n=(int)(input("enter an integer number"))
+m=(int)(input("enter an integer number"))
+if m>n:
+print(m,"is greater")
+else:
+print(n,"is greater")
